@@ -13,7 +13,7 @@ public class Studente {
     }
 
     public String studenteConcatenato(){
-        return this.nome + " " + this.cognome + ", " + this.eta;
+        return this.nome + " " + this.cognome + ", " + this.eta + " anni.";
     }
 
 }
